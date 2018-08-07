@@ -60,6 +60,7 @@
 			0010	2	读已提交
 			0100	4	可重复读
 			1000	8	串行化          spring 有自己的隔离级别
+   this is my  github_Test
 		 -->
 		 <property name="hibernate.connection.isolation">4</property>
 		 
